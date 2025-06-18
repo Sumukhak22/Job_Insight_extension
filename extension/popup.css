@@ -1,0 +1,48 @@
+body {
+    width: 300px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .container {
+    padding: 10px;
+  }
+  h2 {
+    margin-top: 0;
+    text-align: center;
+  }
+  input {
+    width: calc(100% - 16px);
+    margin: 4px 0;
+    padding: 6px;
+    box-sizing: border-box;
+  }
+  button {
+    width: 100%;
+    padding: 6px;
+    margin: 6px 0;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background: #0056b3;
+  }
+  #results {
+    max-height: 150px;
+    overflow-y: auto;
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  #results table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  #results th, #results td {
+    border: 1px solid #ccc;
+    padding: 4px;
+  }
+  #results th {
+    background: #f0f0f0;
+  }
+  
