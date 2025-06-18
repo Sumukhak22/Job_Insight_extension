@@ -75,4 +75,3 @@ The Flask server will be available at `http://localhost:5000/`
 4. **Receive Insights** - Get automated email reports with curated job market analysis
 
 
-##**Built with ❤️ for smarter job market analysis**
